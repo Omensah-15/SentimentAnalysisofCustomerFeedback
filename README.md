@@ -1,4 +1,4 @@
-# 🧠 Sentiment Analysis of Customer Feedback
+# 🧠 Customer Feedback Sentiment Analysis Using NLP
 
 This project focuses on analyzing customer sentiments from feedback collected across multiple platforms using natural language processing (NLP). The goal is to classify feedback as **Positive** or **Negative**, visualize patterns across **location**, **platform**, and **confidence scores**, and derive insights that can help businesses improve their services and engagement strategies.
 

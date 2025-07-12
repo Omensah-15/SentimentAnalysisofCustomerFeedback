@@ -138,16 +138,6 @@ Negative    43
 
 ---
 
-## 📊 Visualizations
-
-📁 Stored in the `visuals/` folder:
-
-- `sentiment_by_source.png`
-- `sentiment_by_location.png`
-- `confidence_score_by_location.png`
-
----
-
 ## 🧰 Tools & Technologies Used
 
 - **Python**: Core programming language for data processing
@@ -155,7 +145,6 @@ Negative    43
 - **Matplotlib & Seaborn**: Visualization libraries
 - **NLTK / spaCy**: Natural Language Processing (Text Cleaning, Lemmatization)
 - **Jupyter Notebook**: Development environment
-- **Power BI (optional)**: For interactive business dashboard reporting
 
 ---
 

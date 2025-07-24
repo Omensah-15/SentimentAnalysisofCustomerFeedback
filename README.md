@@ -1,10 +1,10 @@
-# 🧠 Customer Feedback Sentiment Analysis Using NLP
+# Customer Feedback Sentiment Analysis Using NLP
 
 This project focuses on analyzing customer sentiments from feedback collected across multiple platforms using natural language processing (NLP). The goal is to classify feedback as **Positive** or **Negative**, visualize patterns across **location**, **platform**, and **confidence scores**, and derive insights that can help businesses improve their services and engagement strategies.
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 The dataset contains **1000 synthetic customer feedback entries** across platforms such as **Yelp, Amazon, IMDb, Spotify, Online Stores**, and more. Each record includes sentiment labels and a confidence score for how certain the model is about the classification.
 
@@ -22,7 +22,7 @@ The dataset contains **1000 synthetic customer feedback entries** across platfor
 
 ---
 
-## 🧼 Data Cleaning & Preprocessing
+## Data Cleaning & Preprocessing
 
 1. **Missing Data Check & Removal**
    - Checked for missing values in all columns.
@@ -156,6 +156,11 @@ Negative    43
 - **Customer Experience Strategy**: Combining sentiment with confidence scores and feedback source allows for **data-driven prioritization** of problem areas.
 
 ---
+## 👨‍💻 Author
+
+**Obed Mensah**  
+*Data Scientist — Python | Power BI | SQL | Analytics*  
+📧 [heavenzlebron7@gmail.com](mailto:heavenzlebron7@gmail.com)
 
 ## ✅ Conclusion
 

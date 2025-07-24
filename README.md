@@ -156,14 +156,14 @@ Negative    43
 - **Customer Experience Strategy**: Combining sentiment with confidence scores and feedback source allows for **data-driven prioritization** of problem areas.
 
 ---
-## 👨‍💻 Author
-
-**Obed Mensah**  
-*Data Scientist — Python | Power BI | SQL | Analytics*  
-📧 [heavenzlebron7@gmail.com](mailto:heavenzlebron7@gmail.com)
 
 ## ✅ Conclusion
 
 This sentiment analysis project not only demonstrates NLP application in real-world feedback but also delivers actionable insights for customer experience teams. By understanding which platforms and locations foster positive vs negative sentiment, businesses can better tailor support, communication, and service improvements.
 
 ---
+## 👨‍💻 Author
+
+**Obed Mensah**  
+*Data Scientist — Python | Power BI | SQL | Analytics*  
+📧 [heavenzlebron7@gmail.com](mailto:heavenzlebron7@gmail.com)
